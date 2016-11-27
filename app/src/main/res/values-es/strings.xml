@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_city">Cambiar ciudad</string>
+    <string name="place_not_found">Disculpa, no hay información del clima.</string>
+    <string name="change">Cambiar</string>
+
+    <string name="last_update">Ultima Actualización:&#160;</string>
+    <string name="pressure">Presión:&#160;</string>
+    <string name="humidity">Humedad:&#160;</string>
+    <string name="temperature">Temperatura:&#160;</string>
+
+    <string name="city_weather_info">Info de Clima</string>
+    <string name="ok">Aceptar</string>
+    <string name="location_of_weather">Lugar de Info del Clima :</string>
+</resources>
