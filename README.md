@@ -21,10 +21,12 @@ Añada su API KEY a String API_KEY="";
 ## Cambio de coordenadas de Latitud & Longitud
 ~~El cambio de coordenadas es automatico 
 
-Obtiene los datos actuales del clima 
+Obtiene los datos actuales del clima :
+
 getCurrentWeather(stringLatitude,stringLongitude);
 
-Obtiene 10 pronosticos del clima 
+Obtiene 10 pronosticos del clima :
+
 getWeatherData(stringLatitude,stringLongitude);
 
 ~~Se ha añadido un Localizador de GPS automatico
