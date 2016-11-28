@@ -14,8 +14,6 @@ Geo - Localización y Retrofit 2.1
 
 #### Autores : Juan Tomaylla,Jonatan Tisnado,German Granados
 
-* [Codigo GeoWeather ](https://github.com/codejat/GeoWeather) 
-
 
 ##Cambiar el  API KEY 
 Añada su API KEY a String API_KEY="";
